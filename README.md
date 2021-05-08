@@ -1,2 +1,0 @@
-# ameba
-Alfred workflow
