@@ -1,4 +1,3 @@
-## 　　Lesson23.　スクリプトフィルターをワークフローの途中で使う  
 #### 開発メモ
 ワークフロー
 <br><img width="600" src="https://user-images.githubusercontent.com/40127279/127756932-1f627195-1442-46ef-bf3d-27d4a9bbcf2b.png">
